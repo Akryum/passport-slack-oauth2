@@ -1,6 +1,6 @@
 {
-  "name": "passport-slack-oauth2",
-  "version": "1.0.2",
+  "name": "@akryum/passport-slack-oauth2",
+  "version": "1.0.3",
   "description": "",
   "keywords": [
     "passport",
@@ -33,7 +33,6 @@
   },
   "homepage": "https://github.com/nmaves/passport-slack-oauth2#readme",
   "dependencies": {
-    "passport-oauth2": "^1.4.0",
-    "pkginfo": "^0.4.1"
+    "passport-oauth2": "^1.4.0"
   }
 }
